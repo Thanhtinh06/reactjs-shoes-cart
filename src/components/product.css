@@ -1,0 +1,32 @@
+button.addCart {
+  background-color: black;
+  color: white;
+}
+
+button.addCart:hover {
+  border-color: black;
+}
+
+.card {
+  width: 18rem;
+  margin-top: 30px;
+}
+
+img {
+  width: 100%;
+  cursor: pointer;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+h2 {
+  background-color: rgba(202, 199, 199, 0.377);
+  padding: 20px 0;
+  color: rgba(17, 1, 1, 0.615);
+}
+
+.listProduct {
+  padding-top: 50px;
+}
